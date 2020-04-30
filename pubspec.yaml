@@ -24,7 +24,6 @@ dependencies:
   # Use with the CupertinoIcons class for iOS style icons.
   cupertino_icons: ^0.1.2
   image_picker: ^0.6.0+2
-  badges: ^1.1.1
   font_awesome_flutter:  
   dio: ^2.1.7
   sweetalert: 
